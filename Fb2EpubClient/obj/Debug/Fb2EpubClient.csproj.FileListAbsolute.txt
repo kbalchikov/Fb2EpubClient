@@ -1,0 +1,13 @@
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\bin\Debug\Fb2EpubClient.exe.config
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\bin\Debug\Fb2EpubClient.exe
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\bin\Debug\Fb2EpubClient.pdb
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.csprojResolveAssemblyReference.cache
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.MainForm.resources
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.Properties.Resources.resources
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.csproj.GenerateResource.Cache
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.exe
+c:\users\константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.pdb
+C:\Users\Константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\bin\Debug\Fb2EpubClient.exe.manifest
+C:\Users\Константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\bin\Debug\Fb2EpubClient.application
+C:\Users\Константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.exe.manifest
+C:\Users\Константин\documents\visual studio 2012\Projects\Fb2EpubClient\Fb2EpubClient\obj\Debug\Fb2EpubClient.application
