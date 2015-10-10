@@ -163,6 +163,12 @@ namespace Fb2EpubClient
             return responseString;
         }
 
+        /// <summary>
+        /// Trys to download file by specified URI to the target path.
+        /// </summary>
+        /// <param name="uri">File URI</param>
+        /// <param name="path">Target path</param>
+        /// <returns>True if download completed successfully, otherwise false.</returns>
         public static bool TryDownloadFile(Uri uri, string path)
         {
             using (WebClient client = new WebClient())
